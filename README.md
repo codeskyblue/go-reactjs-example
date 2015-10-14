@@ -1,5 +1,7 @@
 # go-reactjs-example
-This is an exmple web use Golang And ReactJS
+This is an exmple web use Golang([macaron](https://github.com/Unknwon/macaron)) And ReactJS
+
+A real world project use go and reactjs. example: [file-server](https://github.com/codeskyblue/file-server)
 
 ## Build
 Suggest install node through [nvm](https://github.com/creationix/nvm)
