@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/Unknwon/macaron"
+	"github.com/go-macaron/macaron"
 	"github.com/codeskyblue/go-reactjs-example/modules"
 )
 

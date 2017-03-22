@@ -1,0 +1,41 @@
+{
+	"ImportPath": "github.com/codeskyblue/go-reactjs-example",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Unknwon/com",
+			"Comment": "v1",
+			"Rev": "28b053d5a2923b87ce8c5a08f3af779894a72758"
+		},
+		{
+			"ImportPath": "github.com/Unknwon/macaron",
+			"Rev": "9b82b0372a4edf52f66fbc8feaa6aafe0123001d"
+		},
+		{
+			"ImportPath": "github.com/Unknwon/macaron/inject",
+			"Rev": "9b82b0372a4edf52f66fbc8feaa6aafe0123001d"
+		},
+		{
+			"ImportPath": "github.com/elazarl/go-bindata-assetfs",
+			"Rev": "d5cac425555ca5cf00694df246e04f05e6a55150"
+		},
+		{
+			"ImportPath": "github.com/go-macaron/inject",
+			"Rev": "c5ab7bf3a307593cd44cb272d1a5beea473dd072"
+		},
+		{
+			"ImportPath": "github.com/go-macaron/macaron",
+			"Rev": "93b6fdef06cc9bc57b18a85318b58fe7c42e5fee"
+		},
+		{
+			"ImportPath": "github.com/macaron-contrib/bindata",
+			"Rev": "8034104f1486732c68b88433eaac22a20ee9040a"
+		},
+		{
+			"ImportPath": "gopkg.in/ini.v1",
+			"Comment": "v0-43-gaea5e9f",
+			"Rev": "aea5e9fd2e7dc7701717f980b20ccbced24cbb85"
+		}
+	]
+}
